@@ -1,2 +1,2 @@
 # repo
-Riley's personal repository
+Riley's personal repository - Blinmaker: remake of the Blinmaker program from Life of Boris - Essay Template: ever wanted to write an essay for school in HTML? You're in luck. - Harmless Program: want to scare the shit out of someone? Put this program into a JS editor and try it out! - HTML Basic Website: code for a basic website made with HTML. - Tutorials: Learn the basics of some different coding languages - JS Calculator: a calculator made with JavaScript
