@@ -1,3 +1,2 @@
 # repo
-Riley's personal repository
-No projects
+Riley's personal repository - no projects
