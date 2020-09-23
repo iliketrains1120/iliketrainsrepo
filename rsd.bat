@@ -1,0 +1,2 @@
+shutdown -i
+pause
